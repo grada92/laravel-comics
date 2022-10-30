@@ -1,0 +1,49 @@
+.blue{
+    background-color: blue;
+    }
+
+    .container{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    }
+
+    span{
+    color: white;
+    }
+
+    .container2{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    align-items: center;
+}
+
+span{
+color: white;
+}
+
+ ul {
+        list-style-type: none;
+        display: flex;
+        justify-content: center;
+
+        li{
+            padding: 0 10px;
+        }
+    }
+
+    img{
+    width: 100%;
+
+    }
+
+.bg-img{
+padding: 200px;
+background-size: cover;
+
+
+}
