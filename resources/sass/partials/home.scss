@@ -1,4 +1,3 @@
-
 .prodotti{
     display: flex;
     flex-wrap: wrap;
@@ -13,3 +12,16 @@
            width: 100%;
        }
    }
+
+.btn-load {
+    display:flex;
+    justify-content:center;
+    margin-top: 30px;
+     a {
+    padding: 10px 20px;
+    background-color: #0075F7;
+    color: white;
+    text-decoration: none;
+    }
+}
+

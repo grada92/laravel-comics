@@ -14,7 +14,7 @@
     @yield('content')
 
 
-
+    @include('partials.shop')
     @include('partials.footer')
 </body>
 </html>

@@ -1,0 +1,42 @@
+.btn-load {
+    display:flex;
+    justify-content:center;
+    margin-top: 30px;
+}
+ .btn-load  a {
+    padding: 10px 20px;
+    background-color: #0075F7;
+    color: white;
+    text-decoration: none;
+    }
+
+#products {
+    padding: 3rem 0;
+    background-color: #0282f9;
+    text-align: center;
+
+}
+
+#products ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+#products li {
+    justify-content: center;
+    display: flex;
+    align-items: center
+}
+
+#products a {
+    text-decoration: none;
+    color: #fff;
+
+}
+#products img {
+    width: 40px;
+    height: 50px;
+    margin: 0px 15px;
+
+ }

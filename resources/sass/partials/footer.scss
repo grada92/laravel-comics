@@ -1,0 +1,86 @@
+.menu-footer{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    padding: 10px;
+  }
+.logo-footer img {
+    width: 305px;
+    margin-top: -25px;
+    margin-bottom: -25px;
+
+  }
+.menu-list{
+    display: flex;
+}
+li {
+    list-style-type: none;
+    padding: 2px 0;
+}
+
+li a{
+    color: rgb(201, 192, 192);
+    text-decoration: none;
+    font-size:12px;
+}
+ a:hover{
+    text-decoration:underline;
+}
+
+.content-list{
+        padding: 20px 30px;
+}
+.content-list h3{
+            padding: 10px 0;
+            margin-left: 10px;
+}
+
+.menu-list ul{
+  display: flex;
+  flex-direction: column;
+}
+
+.bg-dark{
+background-color: hsl(240deg 1% 19%);
+}
+
+.second-footer{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 30px 0;
+}
+.signup button{
+    color: white;
+    border: 2px solid hsl(209deg 100% 49%);
+    padding: 10px 15px;
+    background-color: hsl(240deg 1% 19%);
+    margin-right: 240px;
+}
+button:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+.icon{
+    display: flex;
+    align-items: center;
+}
+.icon h3{
+          color: hsl(209deg 100% 49%);
+          padding: 0px 20px;
+}
+.icon img{
+    padding: 0px 10px;
+}
+
+.icon img:hover{
+      cursor: pointer;
+      opacity: 0.7;
+}
+
+.social-nav {
+    display: flex;
+}
+
